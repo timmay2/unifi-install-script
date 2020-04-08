@@ -3,8 +3,8 @@ optimisations as well as providing a fail proof install that should work with an
 
 /!\ Prerequisites /!\
 
-Ubuntu 18.04 LTS server (64bit)
-XFS file system for best performance (if you are cloud hosting this may not be possible)
+* Ubuntu 18.04 LTS server (64bit)
+* XFS file system for best performance (if you are cloud hosting this may not be possible)
 
 This script does the following:-
 
