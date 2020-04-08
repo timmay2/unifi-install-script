@@ -21,7 +21,6 @@ This script does the following:-
 
 The settings in this script double the amount of memory allocated to the Java VM, doubles the inform threads and keep alive requests from the defaults. This sould support ~2000 devices.
 
-Simple run the below command to clone this repository and run the Unifi installer script if you are not makeing any other changes to 
-these settings.
+Copy and paste the below command into your Ubuntu server terminal to clone this repository and run the Unifi installer script.
 
 sudo apt install -y git && git clone https://github.com/timmay2/unifi-install-script.git && sudo sh unifi-install-script/unifiinstaller.sh
